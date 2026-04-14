@@ -141,20 +141,44 @@ VITE_RAZORPAY_KEY_ID=your_razorpay_id
 ├── server/public  # Resume uploads (temporary)
 ├── client/assets  # UI & avatar files
 ```
-### 🌐 Deployment
--Backend → Render (Web Service)
-F-rontend → Render (Static Site)
+## 🌐 Deployment
 
-### ⚠️ Important:
+- Backend → Render (Web Service)  
+- Frontend → Render (Static Site)  
 
--Add rewrite rules for React routing
--Set environment variables properly
-###🎯 Future Improvements
--📹 Video-based interview mode
--📊 Advanced analytics dashboard
--🌍 Multi-language support
--🧠 More AI model integrations
--🤝 Contributing
+---
 
-###Contributions are welcome!
+## ⚠️ Important
+
+- Add rewrite rules for React routing  
+- Set environment variables properly  
+
+---
+
+## 🎯 Future Improvements
+
+- 📹 Video-based interview mode  
+- 📊 Advanced analytics dashboard  
+- 🌍 Multi-language support  
+- 🧠 More AI model integrations  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
 Feel free to fork the repo and submit a pull request.
+
+---
+
+## 📬 Contact
+
+**Ronak Gupta**  
+📧 guptaronak336@gmail.com  
+🔗 GitHub: https://github.com/ronakg-tech  
+
+---
+
+## ⭐ Final Note
+
+If you found this project helpful, don't forget to ⭐ the repository!
