@@ -117,9 +117,13 @@ OPEN_ROUTER_API_KEY=your_open_router_key
 RAZORPAY_KEY_ID=your_razorpay_id
 RAZORPAY_KEY_SECRET=your_razorpay_secret
 ```
-🔹 Client (/client/.env)
+### 🔹 Client (`/client/.env`)
+
+```env
 VITE_FIREBASE_API_KEY=your_firebase_key
 VITE_RAZORPAY_KEY_ID=your_razorpay_id
+```
+
 🛠️ Installation & Setup
 1️⃣ Clone Repository
 git clone https://github.com/ronakg-tech/AI_Interview_Agent.git
@@ -157,6 +161,11 @@ Set environment variables properly
 
 Contributions are welcome!
 Feel free to fork the repo and submit a pull request.
+
+📬 Contact
+
+Ronak Gupta
+📧 guptaronak336@gmail.com
 
 🔗 GitHub: https://github.com/ronakg-tech
 
