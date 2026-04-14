@@ -124,51 +124,51 @@ VITE_FIREBASE_API_KEY=your_firebase_key
 VITE_RAZORPAY_KEY_ID=your_razorpay_id
 ```
 
-🛠️ Installation & Setup
+###🛠️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/ronakg-tech/AI_Interview_Agent.git
-cd AI_Interview_Agent
+-git clone https://github.com/ronakg-tech/AI_Interview_Agent.git
+-cd AI_Interview_Agent
 2️⃣ Backend Setup
-cd server
-npm install
-npm run dev
+-cd server
+-npm install
+-npm run dev
 3️⃣ Frontend Setup
-cd client
-npm install
-npm run dev
-📁 Project Structure
-AI_Interview_Agent/
+-cd client
+-npm install
+-npm run dev
+###📁 Project Structure
+-AI_Interview_Agent/
 │
 ├── client/        # React frontend
 ├── server/        # Express backend
 │
 ├── server/public  # Resume uploads (temporary)
 ├── client/assets  # UI & avatar files
-🌐 Deployment
-Backend → Render (Web Service)
-Frontend → Render (Static Site)
+###🌐 Deployment
+-Backend → Render (Web Service)
+-Frontend → Render (Static Site)
 
-⚠️ Important:
+###⚠️ Important:
 
 Add rewrite rules for React routing
 Set environment variables properly
-🎯 Future Improvements
-📹 Video-based interview mode
-📊 Advanced analytics dashboard
-🌍 Multi-language support
-🧠 More AI model integrations
-🤝 Contributing
+-🎯 Future Improvements
+-📹 Video-based interview mode
+-📊 Advanced analytics dashboard
+-🌍 Multi-language support
+-🧠 More AI model integrations
+-🤝 Contributing
 
-Contributions are welcome!
-Feel free to fork the repo and submit a pull request.
+-Contributions are welcome!
+-Feel free to fork the repo and submit a pull request.
 
-📬 Contact
+###📬 Contact
 
-Ronak Gupta
-📧 guptaronak336@gmail.com
+-Ronak Gupta
+-📧 guptaronak336@gmail.com
 
-🔗 GitHub: https://github.com/ronakg-tech
+-🔗 GitHub: https://github.com/ronakg-tech
 
-⭐ Final Note
+###⭐ Final Note
 
-If you found this project helpful, don't forget to ⭐ the repository!
+-If you found this project helpful, don't forget to ⭐ the repository!
