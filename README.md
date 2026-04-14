@@ -116,7 +116,7 @@ JWT_SECRET=your_jwt_secret_key
 OPEN_ROUTER_API_KEY=your_open_router_key
 RAZORPAY_KEY_ID=your_razorpay_id
 RAZORPAY_KEY_SECRET=your_razorpay_secret
-
+```
 🔹 Client (/client/.env)
 VITE_FIREBASE_API_KEY=your_firebase_key
 VITE_RAZORPAY_KEY_ID=your_razorpay_id
