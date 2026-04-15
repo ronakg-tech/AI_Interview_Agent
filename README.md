@@ -174,7 +174,6 @@ Feel free to fork the repo and submit a pull request.
 ## 📬 Contact
 
 **Ronak Gupta**  
-📧 guptaronak336@gmail.com  
 🔗 GitHub: https://github.com/ronakg-tech  
 
 ---
